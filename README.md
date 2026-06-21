@@ -21,7 +21,7 @@ A simple clone of LeetCode for practicing algorithm problems, tracking progress,
 
 1. Clone the repo
     ```bash
-    git clone https://github.com/your-username/leetcode-clone.git
+    git clone https://github.com/AyushJoshi123/Leetcode-clone.git
     cd leetcode-clone
     ```
 2. Install dependencies
