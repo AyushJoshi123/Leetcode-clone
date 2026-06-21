@@ -14,8 +14,8 @@ A simple clone of LeetCode for practicing algorithm problems, tracking progress,
 
 - Frontend: React, TypeScript, CSS
 - Backend: Node.js, Express
-- Database: PostgreSQL / MongoDB
-- Editor: Monaco or CodeMirror
+- Database: Firebase
+
 
 ## Installation
 
